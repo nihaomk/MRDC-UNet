@@ -2,7 +2,7 @@
 
 The BlindPath-SegDataset\* \*dataset proposed in our paper is released [here](https://drive.google.com/drive/folders/1k78G5lKxYbCd5OBBBmxZbRqGweGI5u3n)
 
-![image](https://note.youdao.com/yws/public/resource/1f3b3e1c0aaf21583532b1a19685bb4a/xmlnote/WEBRESOURCE34dfb9672c452afe0a699afd6a97a991/62)
+![image](https://github.com/nihaomk/MRDC-UNet/blob/main/images/Figure%204.jpeg)
 
 ```markdown
 MRD module, using a multi-branch learning strategy, the original input feature map x with its feature tensor obtained through the processing of each branch, spliced with x in the channel dimension to form a fused feature tensor out, the fused feature tensor out is then further feature integration and dimensionality reduction processed through a one-dimensional convolutional layer on the channel dimension, and finally through Residual links and Relu get result.
